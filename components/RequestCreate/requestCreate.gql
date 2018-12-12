@@ -1,0 +1,8 @@
+query allApplications {
+  applications {
+    id
+    name
+    description
+    ait
+  }
+}
